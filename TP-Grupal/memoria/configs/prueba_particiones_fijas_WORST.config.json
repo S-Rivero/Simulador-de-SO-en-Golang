@@ -1,0 +1,16 @@
+{
+    "port": 8004,
+    "memory_size": 256,
+    "instruction_path": "/the-last-of-c-pruebas",
+    "response_delay": 1000,
+    "ip_kernel": "127.0.0.1",
+    "port_kernel": 8003,
+    "ip_cpu": "127.0.0.1",
+    "port_cpu": 8001,
+    "ip_filesystem": "127.0.0.1",
+    "port_filesystem": 8002,
+    "scheme": "FIJAS",
+    "search_algorithm": "WORST",
+    "partitions": [32,16,64,128,16],
+    "log_level": "TRACE"
+}

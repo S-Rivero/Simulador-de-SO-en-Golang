@@ -1,0 +1,11 @@
+# IDE
+.idea
+
+# Temporal
+filesystem/mount_dir/
+
+# Config
+cpu/config.json
+filesystem/config.json
+kernel/config.json
+memoria/config.json
